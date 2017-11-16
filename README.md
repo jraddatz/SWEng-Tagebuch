@@ -15,4 +15,7 @@
 | 03.11.17 | 10:00 - 11:30<br>12:00 - 12:30<br>14:00 - 15:30 | Projektsitzung #4<br>Pflichtenheft<br>Projektsitzung #5 (Praktikum) | 3,5         |
 | 06.11.17 |                                          | Durchgehen des ERM-Entwurfs<br>Testen des Zugriffs auf den DB-Server | 1,0         |
 | 07.11.17 | 13:00 - 14:00                            | Treffen DB-Team, Besprechung des ERM     | 1,0         |
+| 08.11.17 |                                          | Einrichtung/Testen phpmyadmin            | 1,0         |
 | 10.11.17 | 10:00 - 11:30<br>14:00 - 15:30           | Projektsitzung #6<br>Projektsitzung #7 (Praktikum) | 3,0         |
+| 15.11.17 |                                          | Benutzer für DB-Team in phpmyadmin anlegen | 0,5         |
+| 16.11.17 |                                          | ERM in Barker Notation umsetzen          | 1,0         |
