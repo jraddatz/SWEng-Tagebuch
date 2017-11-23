@@ -18,4 +18,7 @@
 | 08.11.17 |                                          | Einrichtung/Testen phpmyadmin            | 1,0         |
 | 10.11.17 | 10:00 - 11:30<br>14:00 - 15:30           | Projektsitzung #6<br>Projektsitzung #7 (Praktikum) | 3,0         |
 | 15.11.17 |                                          | Benutzer für DB-Team in phpmyadmin anlegen | 0,5         |
-| 16.11.17 |                                          | ERM in Barker Notation umsetzen          | 1,0         |
+| 16.11.17 |                                          | ERM in Barker Notation umsetzen<br>Korrekturlesen der Vorlesungszusammenfassung | 1,0<br>0,5  |
+| 17.11.17 | 10:00 - 10:30<br>12:00 - 14:00<br>14:00 - 15:00       | Projektsitzung #8<br>Arbeit an ERM (Übersetzung ins Englische), Absprache mit API-Team<br>Projektsitzung #9 (Praktikum) | 3,5         |
+| 23.11.17 |                                          | User-Tabelle anlegen, Erstellen von Skript-Dateien<br>Korrekturlesen der Vorlesungszusammenfassung | 1,0  |
+
