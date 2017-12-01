@@ -1,7 +1,5 @@
 # Projekttagebuch Jonas Raddatz
 
-
-
 | Datum    | Uhrzeit                                  | Tätigkeit                                | Aufwand [h] |
 | -------- | ---------------------------------------- | ---------------------------------------- | ----------- |
 | 20.10.17 | 14:00 - 15:30                            | Projektsitzung #1 (Praktikum)            | 1,5         |
@@ -19,6 +17,9 @@
 | 10.11.17 | 10:00 - 11:30<br>14:00 - 15:30           | Projektsitzung #6<br>Projektsitzung #7 (Praktikum) | 3,0         |
 | 15.11.17 |                                          | Benutzer für DB-Team in phpmyadmin anlegen | 0,5         |
 | 16.11.17 |                                          | ERM in Barker Notation umsetzen<br>Korrekturlesen der Vorlesungszusammenfassung | 1,0<br>0,5  |
-| 17.11.17 | 10:00 - 10:30<br>12:00 - 14:00<br>14:00 - 15:00       | Projektsitzung #8<br>Arbeit an ERM (Übersetzung ins Englische), Absprache mit API-Team<br>Projektsitzung #9 (Praktikum) | 3,5         |
-| 23.11.17 |                                          | User-Tabelle anlegen, Erstellen von Skript-Dateien<br>Korrekturlesen der Vorlesungszusammenfassung | 1,0  |
-
+| 17.11.17 | 10:00 - 10:30<br>12:00 - 14:00<br>14:00 - 15:00 | Projektsitzung #8<br>Arbeit an ERM (Übersetzung ins Englische), Absprache mit API-Team<br>Projektsitzung #9 (Praktikum) | 3,5         |
+| 23.11.17 |                                          | User-Tabelle anlegen, Erstellen von Skript-Dateien<br>Korrekturlesen der Vorlesungszusammenfassung | 1,0         |
+| 24.11.17 | 10:00 - 13:00<br>14:00-15:00             | Anpassung ERM, Erstellen von DBs mit phpymadmin<br>Projektsitzung #10 (Praktikum) | 4,0         |
+| 29.11.17 | 2,5<br>1,0                               | Erstellen eines Aktivitätsdiagramms für 'Schritt für Schritt'-Vorgehensweise<br>Einpflegen der Vorlesungszusammenfassung in docute/gh-pages | 3,5         |
+| 30.11.17 | 2,0<br>0,5                               | Implementierung mit phymyadmin<br>Korrigieren der Vorlesungszusammenfassung | 2,5         |
+| 01.12.17 | 10:00 - 10:30<br>10:30-11:30<br>12:30-13:30<br>14:00-15:00 | Projektsitzung #11<br> Schnittstellenbesprechung<br>Implementierung mit phpmyadmin<br>Projektsitzung #12 (Praktikum) | 3,5         |
