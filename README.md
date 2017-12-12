@@ -23,3 +23,5 @@
 | 29.11.17 | 2,5<br>1,0                               | Erstellen eines Aktivitätsdiagramms für 'Schritt für Schritt'-Vorgehensweise<br>Einpflegen der Vorlesungszusammenfassung in docute/gh-pages | 3,5         |
 | 30.11.17 | 2,0<br>0,5                               | Implementierung mit phymyadmin<br>Korrigieren der Vorlesungszusammenfassung | 2,5         |
 | 01.12.17 | 10:00 - 10:30<br>10:30-11:30<br>12:30-13:30<br>14:00-15:00 | Projektsitzung #11<br> Schnittstellenbesprechung<br>Implementierung mit phpmyadmin<br>Projektsitzung #12 (Praktikum) | 3,5         |
+| 07.12.17 | 0,5 | Korrekturlesen der Vorlesungszusammenfassung | 0,5        |
+| 08.12.17 | 10:00 - 11:00<br>12:00-13:30<br>14:00-15:30 | Projektsitzung #13<br>Anpassung ERM, Testdaten in Datenabank<br>Projektsitzung #14 (Praktikum) | 4,0         |
