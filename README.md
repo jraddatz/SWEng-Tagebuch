@@ -28,5 +28,9 @@
 | 13.12.17 | 2,0                                      | Definition von ersten Test-Cases aus den Use-Cases | 2,0         |
 | 14.12.17 | 1,0                                      | Verfeinern der ersten Test-Cases aus den Use-Cases | 2,0         |
 | 15.12.17 | 10:00 - 11:00<br>12:00-13:30<br>14:00-15:30 | Projektsitzung #13<br>Koordinieren und Planen der Abarbeitung der Test-Cases<br>Projektsitzung #14 (Praktikum) | 4,0         |
-| 02.01.18 | 3,0                                     | Erstellen der Vorlesungszusammenfassung zu Vorlesung 11 | 3,0         |
-| 03.01.18 | 1,0                                     | Korrekturlesen der Vorlesungszusammenfassung zu Vorlesung 12 | 1,0         |
+| 02.01.18 | 3,0                                      | Erstellen der Vorlesungszusammenfassung zu Vorlesung 11 | 3,0         |
+| 03.01.18 | 1,0                                      | Korrekturlesen der Vorlesungszusammenfassung zu Vorlesung 12 | 1,0         |
+| 05.01.18 | 10:00 - 11:00<br>12:30-14:00<br>14:00-15:30 | Projektsitzung #15<br>Test-Cases<br>Projektsitzung #16 (Praktikum) | 4,0         |
+| 09.01.18 | 1,0                                      | Vorlesungszusammenfassung zu Vorlesung 13 | 1,0         |
+| 10.01.18 | 2,0                                      | Vorlesungszusammenfassung zu Vorlesung 13 | 2,0         |
+| 11.01.18 | 0,5                                      | Vorlesungszusammenfassung zu Vorlesung 13 Korrekturlesen | 0,5         |
