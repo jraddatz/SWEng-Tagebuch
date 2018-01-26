@@ -34,7 +34,10 @@
 | 09.01.18 | 1,0                                      | Vorlesungszusammenfassung zu Vorlesung 13 | 1,0         |
 | 10.01.18 | 2,0                                      | Vorlesungszusammenfassung zu Vorlesung 13 | 2,0         |
 | 11.01.18 | 0,5                                      | Vorlesungszusammenfassung zu Vorlesung 13 Korrekturlesen | 0,5         |
-| 12.01.18 | 10:00 - 10:30<br>12:30-14:00<br>14:00-15:30 | Projektsitzung #15<br>Test-Cases<br>Projektsitzung #16 (Praktikum) | 3,0         |
+| 12.01.18 | 10:00 - 10:30<br>12:30-14:00<br>14:00-15:30 | Projektsitzung #15<br>Test-Cases<br>Projektsitzung #16 (Praktikum) | 3,5         |
 | 17.01.18 | 1,0                                      | Test Cases                               | 1,0         |
 | 18.01.18 | 1,0                                      | Vorlesungszusammenfassung zu Vorlesung 14 Korrekturlesen | 1,0         |
-| 19.01.18 | 10:00 - 10:30<br>10:30-13:00             | Projektsitzung #17<br>Test-Cases verwalten und schreiben | 3,0         |
+| 19.01.18 | 10:00 - 10:30<br>10:30-13:00<br>14:00-15:30 | Projektsitzung #17<br>Test-Cases verwalten und schreiben<br>Projektsitzung #18 (Praktikum) | 4,5         |
+| 24.01.18 | 2,0                                      | Vorbereiten der Abschlusspräsentation    | 2,0         |
+| 25.01.18 | 0,5                                      | Vorlesungszusammenfassung zu Vorlesung 15 Korrekturlesen und mergen | 0,5         |
+| 26.01.18 | 10:00 - 13:30<br>14:00 - 15:00           | Projektsitzung #19, Letzte Vorbereitung der Abschlusspräsentation<br>Projektsitzung #20 (Praktikum, Abschlusspräsentation) | 4,5         |
